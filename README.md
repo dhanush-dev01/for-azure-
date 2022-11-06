@@ -1,0 +1,2 @@
+# for-azure-
+for prectice 
